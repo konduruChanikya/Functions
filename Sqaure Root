@@ -1,0 +1,3 @@
+n=int(input())
+add=(n*n)
+print(add)
